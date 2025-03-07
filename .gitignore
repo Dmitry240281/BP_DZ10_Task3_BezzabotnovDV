@@ -1,6 +1,6 @@
 *
-*/out
-!*/
+*/
+!*/BP_DZ10_Task2_Lib
 !.gitignore
 !CMakeLists.txt
 !*.cpp
