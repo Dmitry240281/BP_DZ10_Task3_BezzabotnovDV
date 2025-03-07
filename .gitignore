@@ -1,0 +1,10 @@
+*
+!*/
+!.gitignore
+!CMakeLists.txt
+!*.cpp
+!*.h
+!*.sln
+!*.vcxproj
+!*.filters
+!*.user
